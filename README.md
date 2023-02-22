@@ -22,7 +22,7 @@ make sh
 To run the test suite inside the container:
 
 ```
-make test
+make tests
 ```
 
 To run a single test class:
